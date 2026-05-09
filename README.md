@@ -42,6 +42,7 @@ I've built a job tracking platform, a deployed REST API for task management, a J
 **Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Deployment & Tools**
 
@@ -110,9 +111,11 @@ Hands-on DevOps internship under MLSA KIET — working through real deployment p
 
 <div align="center">
 
-![Nandita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanditasarkar28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nanditasarkar28&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nanditasarkar28&layout=compact&theme=tokyonight&hide_border=true)
+![Nandita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanditasarkar28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nanditasarkar28&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
